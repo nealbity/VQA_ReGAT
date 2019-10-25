@@ -35,7 +35,7 @@ wget -P data/cp_v2_questions https://computing.ece.vt.edu/~aish/vqacp/vqacp_v2_t
 
 # VQA cp-v2 Annotations
 wget -P data/cp_v2_annotations https://computing.ece.vt.edu/~aish/vqacp/vqacp_v2_train_annotations.json 
-wget -P data/cp_v2_annotations https://computing.ece.vt.edu/~aish/vqacp/vqacp_v2_train_annotations.json
+wget -P data/cp_v2_annotations https://computing.ece.vt.edu/~aish/vqacp/vqacp_v2_test_annotations.json
 
 # Visual Genome Annotations
 wget -P data/visualGenome https://convaisharables.blob.core.windows.net/vqa-regat/data/visualGenome/image_data.json
